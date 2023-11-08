@@ -1,0 +1,45 @@
+main{
+    background-color:#9a9a9a;
+    margin:30px 5px;
+  }
+  
+  main p, h1, h3, figcaption{
+    text-align:center;
+    padding:5px;
+  }
+  
+  h3{
+    padding-top:10px;
+  }
+  
+  h1{
+    padding-top:20px;
+  }
+  
+  
+  #img-div{
+    margin:10px;
+    background-color:#fff;
+  }
+  
+  #image{ 
+    /* padding:10px; */
+    display:block;
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+  }
+  #tribute-info{
+    font-size:20px;
+    line-height:30px;
+    width:600px;
+    margin:0 auto;
+  }
+  #tribute-info p{
+    text-align:left;
+  }
+  li{
+    padding-top:10px;
+  }
+  
+  
